@@ -1,4 +1,4 @@
-# Hi 👋, I'm K Yoga Prasanna Varma
+# Hi 👋, I'm Yoga Prasanna Varma
 
 ### AI/ML Engineer | Data Analyst | Software Developer
 
@@ -63,3 +63,9 @@ www.linkedin.com/in/yogaprasannavarmak
 
 Email:
 yogavarma7@gmail.com
+
+## 📈 GitHub Stats
+
+![Yoga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOGA-varma&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOGA-varma&layout=compact&theme=tokyonight)
